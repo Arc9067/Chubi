@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Primary;
+  src: url("./assets/fonts/HeinzLabel-Regular\ \(1\).woff");
+}
+@import url("https://fonts.googleapis.com/css2?family=Aoboshi+One&family=Inter:wght@400;500;600;700;800;900&display=swap");
+@tailwind components;
+@tailwind base;
+@tailwind utilities;
+
+@layer {
+}
